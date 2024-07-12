@@ -8,7 +8,7 @@ const Hero = () => {
     }
 
     return (
-        <>👌
+        <>
             <div>
                 <section className="flex flex-col sm:justify-between items-center sm:flex-row mt-20 md:mt-5">
                     <div className="w-full md:w-1/3 text-left">
