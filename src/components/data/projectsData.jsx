@@ -28,8 +28,8 @@ const projects = [
         imageSrc: img2,
         liveLink: 'https://mychat-mern.vercel.app',
         codeLink: 'https://github.com/Hamza-Azeem1/MERN_CHAT_APP.git',
-        description: 'Fully working Blog app including Forum with admin pannel',
-        title: 'SEO News',
+        description: 'Real Time Chat App where people can share their ideas!.',
+        title: 'Chat App',
     },
     {
         id: 3,
