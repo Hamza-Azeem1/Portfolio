@@ -1,5 +1,5 @@
 import img1 from '../../assets/Project Images/myshop.png'
-import img2 from '../../assets/Project Images/seonews.png'
+import img2 from '../../assets/Project Images/chatapp.png'
 import img3 from '../../assets/Project Images/cryptoverse.png'
 import img4 from '../../assets/Project Images/brainwave.png'
 import img5 from '../../assets/Project Images/react-mui.png'
@@ -19,15 +19,15 @@ const projects = [
         id: 1,
         imageSrc: img1,
         liveLink: 'https://myshop.vercel.app',
-        codeLink: 'https://github.com/Hamza-Azeem1/CryptoVerse.git',
+        codeLink: 'https://github.com/Hamza-Azeem1/MERN_Ecommerce.git',
         description: 'E-commerce app with admin pannel.',
         title: 'My Shop',
     },
     {
         id: 2,
         imageSrc: img2,
-        liveLink: 'https://seo-news.vercel.app',
-        codeLink: 'https://github.com/Hamza-Azeem1/CryptoVerse.git',
+        liveLink: 'https://mychat-mern.vercel.app',
+        codeLink: 'https://github.com/Hamza-Azeem1/MERN_CHAT_APP.git',
         description: 'Fully working Blog app including Forum with admin pannel',
         title: 'SEO News',
     },
