@@ -1,4 +1,4 @@
-import img1 from '../../assets/Project Images/myshop.png'
+import img1 from '../../assets/Project Images/DaishoGold.png'
 import img2 from '../../assets/Project Images/chatapp.png'
 import img3 from '../../assets/Project Images/cryptoverse.png'
 import img4 from '../../assets/Project Images/brainwave.png'
@@ -18,10 +18,10 @@ const projects = [
     {
         id: 1,
         imageSrc: img1,
-        liveLink: 'https://myshop.vercel.app',
-        codeLink: 'https://github.com/Hamza-Azeem1/MERN_Ecommerce.git',
+        liveLink: 'https://dashiogold.vercel.app',
+        codeLink: 'https://github.com/Hamza-Azeem1/DashioGold.git',
         description: 'E-commerce app with admin pannel.',
-        title: 'My Shop',
+        title: 'Daisho Gold',
     },
     {
         id: 2,
